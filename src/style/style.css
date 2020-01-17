@@ -1,0 +1,80 @@
+.warna{
+    background-color:whitesmoke;
+  }
+  .logo{
+    width: 200px;
+  }
+  .header{
+    background-color:rgb(25, 25, 167);
+    height: 70px;
+    padding-top: 50px;
+  }
+
+  .row img{
+    width: auto;
+    height: auto;
+    margin-top: -25px;
+    margin-left: 200px;
+  }
+  .toggler{
+    background-color: transparent;
+  }
+ 
+  .sliderimage{
+    margin-top: 50px;
+  }
+  .slider{
+    background-color: white;
+    height: 400px;
+    margin-top: -50px;
+  }
+  .slide{
+    padding-top: 30px;
+  }
+  .notive{
+    margin-top: 20px;
+  }
+  .danger{
+    background-color: rgb(10, 99, 216) !important;
+    
+  }
+ 
+  .slide{
+    margin-bottom: 20px;
+  }
+  .containerright{
+    margin-left: -250px;
+    width: 200px;
+    height: 200px;
+  }
+.carousel-item{
+    width: 500px;
+    height: 400px;
+    margin-left: -220px;
+
+}
+ 
+ 
+  @media only screen and (max-width: 480px) {
+    .slider{
+      background-color: rgb(186,3,2);
+      height: 90px;
+    }
+  }
+  .kiri {
+      float: left;
+      text-align: justify;
+  }
+  .content-detail{
+      font-size: 14px;
+  }
+  .title{
+      font-size: 16px;
+      font-style: italic;
+      font-weight: bold;
+      text-align: left;
+  }
+
+
+
+ 
